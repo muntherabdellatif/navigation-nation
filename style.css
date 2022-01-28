@@ -296,6 +296,7 @@ section {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: var(--primaryColor);
+  text-align: center;
 }
 
 section#home {
